@@ -6,7 +6,7 @@
 [[`Paper`]()] 
 
 
-**Open-Source Road Extraction Datasets for Cloud and Cloud Shadow Detection**
+**Open-Source Road Extraction Datasets**
 
 | Name                                                                                  | Year    | Resolution (m/pixel)| Buffer width (m) | Size (pixels) | Images(train/val/test) | Paper                                                                            |
 |:--------------------------------------------------------------------------------------|:--------|---------------------|------------------|--------------|------------------------|----------------------------------------------------------------------------------|
