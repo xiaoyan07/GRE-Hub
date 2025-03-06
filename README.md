@@ -1,7 +1,6 @@
 <h2 align="center">Global Road Extraction: Open-Source Solutions & Resources (GRE-Hub)</h2>
 
-<h5 align="center"> <a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan LU</a> and
-<a href="https://scholar.google.com/citations?user=SbbCxE8AAAAJ&hl=zh-CN">Qihao WENG</a></h5>
+<h5 align="center"> Xiaoyan LU and Qihao WENG</h5>
 
 [[`Paper`]()] 
 
@@ -24,7 +23,7 @@
 
 <br />
 
-**Open-Source Code for Road Extraction **
+**Open-Source Code for Road Extraction**
 
 | Year | Methods                                  | Paper | Code                                                                                                            |
 |------|:-----------------------------------------|-------|:----------------------------------------------------------------------------------------------------------------|
@@ -54,3 +53,6 @@
 | 2024 | SAM_MLoRA          |    [(Lu and Weng, 2024)](https://ieeexplore.ieee.org/abstract/document/10637992) | [Pytorch](https://github.com/xiaoyan07/SAM_MLoRA)                                                               |
 | 2024 | SAM-Road++            |   [(Yin et al., 2024)](https://arxiv.org/abs/2411.16733) | [Pytorch](https://github.com/earth-insights/samroadplus)                                                        |
 <br />
+
+**Contact**
+<a href="https://scholar.google.com/citations?user=MDA37NMAAAAJ&hl=zh-CN">Xiaoyan LU</a>: xiaoyan07.lu@polyu.edu.hk or luxiaoyan@whu.edu.cn
